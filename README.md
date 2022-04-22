@@ -8,6 +8,7 @@ El programa sigue el progreso del usuario para mostrar las preguntas respondidas
 Cuando el usuario contesta todas las preguntas, el programa debe mostrar el resultado de las pruebas dándole un valor de su valía.
 Es responsive.
 Conectada con la api opentdb.
+![Screenshot 2022-04-22 150752](https://user-images.githubusercontent.com/32551746/164720385-83b1b995-4892-4040-889e-5b39a43386bb.png)
 
 ## Available Scripts
 
